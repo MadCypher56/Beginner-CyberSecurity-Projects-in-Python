@@ -17,6 +17,6 @@ Contributions to the project are welcome. If you have ideas for advancements or 
 
 ## Contact Information
 
-- Email: [dishantptl04@gmail.com](mailto:dishantptl04@gmail.com)
-- Github: [Dishant78](https://github.com/Dishant78)
+- Email: [pateladitya2004@gmail.com](mailto:pateladitya2004@gmail.com)
+- Github: [MadCypher56](https://github.com/MadCypher56)
 - loda taru mail ane git nakhi ge je ;)
