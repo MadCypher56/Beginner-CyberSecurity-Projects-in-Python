@@ -9,7 +9,7 @@ The MAC Address Changer is a lightweight command-line tool designed to modify th
 
 ## Usage
 
-Change the MAC address of a specific network interface:
+Change the MAC address of a specific network interface.
 
 ## Contributing
 
@@ -19,4 +19,4 @@ Contributions to the project are welcome. If you have ideas for advancements or 
 
 - Email: [pateladitya2004@gmail.com](mailto:pateladitya2004@gmail.com)
 - Github: [MadCypher56](https://github.com/MadCypher56)
-- loda taru mail ane git nakhi ge je ;)
+
